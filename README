@@ -1,0 +1,26 @@
+# AI First Stock Analytics Platform
+
+A modern, AI-powered stock analytics platform that leverages Model Context Protocol (MCP) for seamless data retrieval and analysis. Built with Python and designed for intuitive natural language queries.
+
+## 🚀 Features
+
+- **Natural Language Queries**: Ask questions like "Give me details on X ticker" and get comprehensive stock information
+- **MCP Server Architecture**: Robust Model Context Protocol implementation for scalable data handling
+- **Real-time Stock Data**: Powered by Alpha Vantage API for up-to-date market information
+- **AI-First Design**: Optimized for conversational interactions and intelligent responses
+
+## 🏗️ Architecture
+
+### Components
+
+1. **MCP Server Client**: Handles communication between the AI interface and data sources
+2. **Python MCP Server**: Core server implementation managing data flow and processing
+3. **Alpha Vantage Stock API**: Real-time stock market data integration
+
+### Data Flow
+
+```
+User Query → MCP Client → Python MCP Server → Alpha Vantage API → Processed Response
+```
+
+**Built with ❤️ for AI-first stock analytics**
