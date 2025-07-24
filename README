@@ -23,4 +23,9 @@ A modern, AI-powered stock analytics platform that leverages Model Context Proto
 User Query → MCP Client → Python MCP Server → Alpha Vantage API → Processed Response
 ```
 
+## Requirements
+
+1. Python (the latest version possible but 3.10+ is optimal)
+2. Anthropic's Claude API Key (for MCP server)
+
 **Built with ❤️ for AI-first stock analytics**
